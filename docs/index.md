@@ -100,6 +100,7 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+! [PR Map](/docs/PR_Map.png)
 
 ### Definition lists can be used with HTML syntax.
 
